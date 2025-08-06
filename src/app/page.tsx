@@ -48,7 +48,7 @@ export default function Home() {
 
 
         <div className="mb-12 ">
-          <h1 className="text-xl font-medium text-gray-900 mb-10 mt-10">Mindustry 镜像站</h1>
+          <h1 className="text-xl font-medium text-gray-900 mb-10 mt-10">Mindustry 下载站</h1>
 
           {loading && (
             <div className="flex justify-center">
