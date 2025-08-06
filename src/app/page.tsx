@@ -48,7 +48,7 @@ export default function Home() {
 
 
         <div className="mb-12 ">
-          <h1 className="text-xl font-medium text-gray-900 mb-10 mt-10">镜像下载</h1>
+          <h1 className="text-xl font-medium text-gray-900 mb-10 mt-10">Mindustry 镜像站</h1>
 
           {loading && (
             <div className="flex justify-center">
@@ -100,7 +100,7 @@ export default function Home() {
         </div>
 
         <div className="text-sm text-gray-500 pt-6">
-          <p className="mb-2">itch 镜像每天同步一次。</p>
+          <p className="mb-2">itch.io 镜像每天同步一次。</p>
         </div>
       </div>
     </main>
