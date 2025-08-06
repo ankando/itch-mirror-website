@@ -47,8 +47,6 @@ export default function Home() {
       <div className="max-w-4xl mx-auto">
 
 
-
-        {/* 镜像下载部分 */}
         <div className="mb-12 ">
           <h1 className="text-xl font-medium text-gray-900 mb-10 mt-10">镜像下载</h1>
 
@@ -101,7 +99,6 @@ export default function Home() {
           )}
         </div>
 
-        {/* 注释信息 - 移除了明显的分割线 */}
         <div className="text-sm text-gray-500 pt-6">
           <p className="mb-2">itch 镜像每天同步一次。</p>
         </div>
