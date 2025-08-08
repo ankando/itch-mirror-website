@@ -118,7 +118,7 @@ export default function RepoDetailPage() {
                 rel="noopener noreferrer"
                 className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
               >
-                下载
+                直接下载
               </a>
               <a
                 href={`https://ghfast.top/${asset.url}`}
@@ -126,7 +126,7 @@ export default function RepoDetailPage() {
                 rel="noopener noreferrer"
                 className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
               >
-                加速
+                加速下载
               </a>
             </div>
           </li>
@@ -145,7 +145,7 @@ export default function RepoDetailPage() {
             rel="noopener noreferrer"
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
-            下载
+            直接下载
           </a>
           <a
             href={`https://ghfast.top/${release.source_zip}`}
@@ -153,7 +153,7 @@ export default function RepoDetailPage() {
             rel="noopener noreferrer"
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
-            加速
+            加速下载
           </a>
         </div>
       </li>
@@ -168,7 +168,7 @@ export default function RepoDetailPage() {
             rel="noopener noreferrer"
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
-            下载
+            直接下载
           </a>
           <a
             href={`https://ghfast.top/${release.source_tar}`}
@@ -176,7 +176,7 @@ export default function RepoDetailPage() {
             rel="noopener noreferrer"
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
-            加速
+            加速下载
           </a>
         </div>
       </li>
