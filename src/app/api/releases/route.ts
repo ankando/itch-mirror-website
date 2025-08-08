@@ -4,8 +4,7 @@ const repos = [
   'Anuken/Mindustry',
   'ankando/itch-mirror',
   'TinyLake/MindustryX',
-  'Jackson11500/Mindustry-CN-ARC-Builds',
-  'Catana791/Asthosus'
+  'Jackson11500/Mindustry-CN-ARC-Builds'
 ]
 
 const token = process.env.GITHUB_TOKEN || ''
