@@ -98,10 +98,6 @@ export default function Home() {
             </div>
           )}
         </div>
-
-        <div className="text-sm text-gray-500 pt-6">
-          <p className="mb-2">itch.io 镜像每天同步一次。</p>
-        </div>
       </div>
     </main>
   )
