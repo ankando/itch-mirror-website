@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server'
 
 const repos = [
   'Anuken/Mindustry',
+  'Anuken/MindustryBuilds',
   'ankando/itch-mirror',
   'TinyLake/MindustryX',
   'Jackson11500/Mindustry-CN-ARC-Builds',
